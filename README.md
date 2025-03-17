@@ -1,4 +1,4 @@
-# Computational Materials Science
+# Computational Materials Science - MAPR1492
 
 This repository contains the Jupyter notebooks and associated files developed as part of the final project for the course.
 ## Overview
