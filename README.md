@@ -9,5 +9,5 @@ The notebooks cover a range of topics, including the downloading and preparation
 
 ## Acknowledgments
 
-- **Instructor**: Gian-Marco Rignanese for guidance and feedback.
-- **Materials Project**: For providing access to materials data and computational tools.
+- **Professor**: Gian-Marco Rignanese
+- **Materials Project**
